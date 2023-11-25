@@ -18,6 +18,9 @@ https://emn178.github.io/online-tools/sha256_checksum.html
 
 | Version | SHA-256 Hash                                                       |
 | ------- | ------------------------------------------------------------------ |
+| 3.3.4   | `3c3196b0b2895bbca1978c1e6df59cf8b4217cbceb9eab368af5abec4e79bb32` |
+| 3.3.3   | `ac5299174ea8c5eee44ad85c899fb6654b70bd0397f3ee3b2926c6049dd7424e` |
+| 3.3.2   | `fa5c2ef783155b41e0a2092bd8c514d387aa32916246c5b80fc8e6200e8d7d89` |
 | 3.3.1   | `8789a171400b59f47e39cfcc089f76a4ffc7caf1481e95296d72a3a9b6b39702` |
 | 3.3.0   | `3a77dbda6b5acdca5a5f1f485a37e498ace7ac59d040a8f73f7b4be41619416f` |
 | 3.2.3   | `a67c460fff8f8bf7c073daf492769b7c83cfafd63a45306d161ce8f49e37ad49` |
